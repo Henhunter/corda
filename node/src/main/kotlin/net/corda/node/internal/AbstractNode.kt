@@ -57,7 +57,7 @@ import net.corda.node.services.vault.NodeVaultService
 import net.corda.node.services.vault.VaultSoftLockManager
 import net.corda.node.shell.InteractiveShell
 import net.corda.node.utilities.AffinityExecutor
-import net.corda.nodeapi.internal.NetworkParameters
+import net.corda.nodeapi.internal.network.NetworkParameters
 import net.corda.nodeapi.internal.crypto.*
 import net.corda.nodeapi.internal.persistence.CordaPersistence
 import net.corda.nodeapi.internal.persistence.DatabaseConfig

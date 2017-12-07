@@ -1,4 +1,4 @@
-package net.corda.nodeapi.internal
+package net.corda.nodeapi.internal.network
 
 import net.corda.cordform.CordformNode
 import net.corda.core.internal.ThreadBox

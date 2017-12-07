@@ -1,8 +1,8 @@
 package net.corda.testing.common.internal
 
 import net.corda.core.utilities.days
-import net.corda.nodeapi.internal.NetworkParameters
-import net.corda.nodeapi.internal.NotaryInfo
+import net.corda.nodeapi.internal.network.NetworkParameters
+import net.corda.nodeapi.internal.network.NotaryInfo
 import java.time.Instant
 
 fun testNetworkParameters(notaries: List<NotaryInfo>): NetworkParameters {

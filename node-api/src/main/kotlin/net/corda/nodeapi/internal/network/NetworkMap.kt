@@ -1,4 +1,4 @@
-package net.corda.nodeapi.internal
+package net.corda.nodeapi.internal.network
 
 import net.corda.core.crypto.DigitalSignature
 import net.corda.core.crypto.SecureHash

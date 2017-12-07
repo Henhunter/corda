@@ -9,7 +9,7 @@ import net.corda.core.internal.div
 import net.corda.core.node.NodeInfo
 import net.corda.core.node.services.KeyManagementService
 import net.corda.core.serialization.serialize
-import net.corda.nodeapi.internal.NodeInfoFilesCopier
+import net.corda.nodeapi.internal.network.NodeInfoFilesCopier
 import net.corda.testing.*
 import net.corda.testing.node.MockKeyManagementService
 import net.corda.testing.node.makeTestIdentityService
